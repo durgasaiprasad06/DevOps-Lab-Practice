@@ -1,0 +1,27 @@
+# Docker Setup
+
+- Installed Docker
+- Ran hello-world container
+
+Commands:
+docker run hello-world
+docker ps
+
+# Docker Introduction
+
+- Learned about containers
+- Difference between VM and container
+
+
+docker --version
+docker run hello-world
+docker ps
+
+
+Create a simple Dockerfile
+
+Example:
+
+FROM ubuntu
+RUN apt update
+CMD ["echo", "Hello DevOps"]
