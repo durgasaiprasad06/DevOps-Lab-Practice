@@ -1,0 +1,27 @@
+#  Docker Images and Containers
+
+Today I learned about Docker images and containers.
+
+Image:
+An image is a blueprint used to create containers.
+
+Container:
+A running instance of an image.
+
+Commands used:
+
+docker images
+- Shows all available images
+
+docker ps -a
+- Shows all containers (running and stopped)
+
+docker rm <container_id>
+- Removes a container
+
+docker rmi <image_id>
+- Removes an image
+
+Learning:
+I understood the difference between image and container.
+I also learned how to delete containers and images.
