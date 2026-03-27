@@ -1,0 +1,26 @@
+# Dockerfile Introduction
+
+Today I created my first Dockerfile.
+
+What is Dockerfile:
+A Dockerfile is a script that contains instructions to build a Docker image.
+
+Dockerfile example:
+
+FROM ubuntu
+RUN apt update
+CMD ["echo", "Hello DevOps"]
+
+Explanation:
+
+FROM ubuntu
+- Uses Ubuntu as base image
+
+RUN apt update
+- Updates packages inside container
+
+CMD
+- Runs command when container starts
+
+Learning:
+I understood how Dockerfile works and how images are created from it.
