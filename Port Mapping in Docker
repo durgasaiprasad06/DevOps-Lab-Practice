@@ -1,0 +1,21 @@
+#Port Mapping in Docker
+
+Today I learned about port mapping.
+
+What is Port Mapping:
+It connects container port to host machine port.
+
+Command used:
+
+docker run -p 8080:80 nginx
+
+Explanation:
+8080 = host port
+80 = container port
+
+Result:
+Accessed application in browser using:
+http://localhost:8080
+
+Learning:
+I understood how to access container applications from my system.
