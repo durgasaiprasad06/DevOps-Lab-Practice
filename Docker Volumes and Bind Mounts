@@ -1,0 +1,34 @@
+#Docker Volumes
+
+Today I learned about Docker volumes.
+
+What is Volume:
+Used to store data permanently outside container.
+
+Command:
+
+docker volume create myvolume
+
+docker run -v myvolume:/data ubuntu
+
+Learning:
+Data inside container will not be lost even if container is deleted.
+
+
+#Bind Mounts
+
+Today I learned about bind mounts.
+
+What is Bind Mount:
+It links a folder from host machine to container.
+
+Command:
+
+docker run -v /host/path:/container/path ubuntu
+
+Example:
+
+docker run -v $(pwd):/app ubuntu
+
+Learning:
+I understood how to share files between system and container.
