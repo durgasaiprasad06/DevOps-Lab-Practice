@@ -1,0 +1,20 @@
+# Docker Networks
+
+Today I learned about Docker networking.
+
+Types of Networks:
+- Bridge (default)
+- Host
+- Overlay
+
+Commands:
+
+docker network ls
+- Lists networks
+
+docker network create mynetwork
+
+docker run --network=mynetwork nginx
+
+Learning:
+I learned how containers communicate using networks.
