@@ -1,0 +1,37 @@
+# Docker Hub Account
+
+Today I created a Docker Hub account.
+
+What is Docker Hub:
+Docker Hub is a cloud registry to store and share Docker images.
+
+Steps done:
+- Created account on Docker Hub
+- Logged in using terminal
+
+Command used:
+docker login
+
+Learning:
+I understood how Docker Hub is used to store images online.
+
+
+# Tagging Docker Image
+
+Today I learned how to tag Docker images.
+
+What is Tagging:
+Tagging is used to give a proper name and version to an image.
+
+Command used:
+
+docker tag myimage username/myimage:1.0
+
+Explanation:
+username = Docker Hub username
+myimage = image name
+1.0 = version
+
+Learning:
+I understood how to prepare images for uploading to Docker Hub.
+
