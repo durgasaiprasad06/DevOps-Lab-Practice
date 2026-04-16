@@ -1,0 +1,27 @@
+# Push Image to Docker Hub
+
+Today I pushed my Docker image to Docker Hub.
+
+Command used:
+
+docker push username/myimage:1.0
+
+Result:
+Image successfully uploaded to Docker Hub.
+
+Learning:
+I learned how to share my Docker image online.
+
+
+# Pull Image from Docker Hub
+
+Today I learned how to pull an image from Docker Hub.
+
+Command used:
+
+docker pull username/myimage:1.0
+
+docker run username/myimage:1.0
+
+Learning:
+I understood how to download and run images from Docker Hub.
