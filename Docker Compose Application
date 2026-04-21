@@ -1,0 +1,52 @@
+# Introduction to Docker Compose
+
+Today I learned about Docker Compose.
+
+What is Docker Compose:
+Docker Compose is used to run multiple containers together.
+
+File used:
+docker-compose.yml
+
+Basic structure:
+
+version: '3'
+services:
+  web:
+    image: nginx
+
+Command:
+
+docker-compose up
+
+Learning:
+I understood how to define multiple services in one file.
+
+
+# Docker Compose Application
+
+Today I created a multi-container application.
+
+Example:
+WordPress + MySQL using Docker Compose
+
+docker-compose.yml example:
+
+version: '3'
+services:
+  db:
+    image: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+
+  wordpress:
+    image: wordpress
+    ports:
+      - "8080:80"
+
+Command used:
+
+docker-compose up
+
+Learning:
+I learned how to run multiple containers together using Docker Compose.
