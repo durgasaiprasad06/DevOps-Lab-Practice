@@ -1,0 +1,19 @@
+# Monolithic vs Microservices
+
+I learned about software architecture.
+
+Monolithic Architecture:
+- Single application
+- All components are connected
+
+Microservices Architecture:
+- Application divided into small services
+- Each service works independently
+
+Advantages of Microservices:
+- Easy to scale
+- Better maintenance
+- Independent deployment
+
+Learning:
+I understood the difference between monolithic and microservices architecture.
