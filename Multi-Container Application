@@ -1,0 +1,14 @@
+# Multi-Container Application
+
+Today I worked again on multi-container applications.
+
+Used Docker Compose to run:
+- Backend
+- Database
+
+Command:
+
+docker-compose up
+
+Learning:
+I understood how different containers work together in one application.
