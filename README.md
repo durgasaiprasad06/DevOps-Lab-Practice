@@ -19,3 +19,7 @@ To practice DevOps tools daily and understand concepts like Docker, Docker Compo
 - Learned how to build and manage images
 - Worked with multi-container applications
 - Practiced build automation and CI/CD basics
+
+
+## Conclusion
+This repository shows my daily practice and progress in DevOps tools.
