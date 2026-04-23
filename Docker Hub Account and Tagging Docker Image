@@ -1,6 +1,6 @@
 # Docker Hub Account
 
-Today I created a Docker Hub account.
+I created a Docker Hub account.
 
 What is Docker Hub:
 Docker Hub is a cloud registry to store and share Docker images.
@@ -18,7 +18,7 @@ I understood how Docker Hub is used to store images online.
 
 # Tagging Docker Image
 
-Today I learned how to tag Docker images.
+I learned how to tag Docker images.
 
 What is Tagging:
 Tagging is used to give a proper name and version to an image.
