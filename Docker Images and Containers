@@ -1,6 +1,6 @@
 #  Docker Images and Containers
 
-Today I learned about Docker images and containers.
+I learned about Docker images and containers.
 
 Image:
 An image is a blueprint used to create containers.
