@@ -1,6 +1,6 @@
 # Docker Networks
 
-Today I learned about Docker networking.
+I learned about Docker networking.
 
 Types of Networks:
 - Bridge (default)
