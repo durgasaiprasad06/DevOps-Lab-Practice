@@ -1,0 +1,30 @@
+# Environment Variables in Docker Compose
+
+Today I learned about environment variables.
+
+Example:
+
+version: '3'
+services:
+  app:
+    image: node
+    environment:
+      - NODE_ENV=production
+
+Learning:
+Environment variables help in configuring applications easily.
+
+
+# Maven Installation
+
+Today I installed Maven.
+
+What is Maven:
+Maven is a build automation tool used for Java projects.
+
+Command:
+
+mvn -version
+
+Learning:
+I understood the purpose of Maven and verified installation.
