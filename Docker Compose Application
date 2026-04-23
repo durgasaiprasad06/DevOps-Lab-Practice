@@ -1,6 +1,6 @@
 # Introduction to Docker Compose
 
-Today I learned about Docker Compose.
+I learned about Docker Compose.
 
 What is Docker Compose:
 Docker Compose is used to run multiple containers together.
@@ -25,7 +25,7 @@ I understood how to define multiple services in one file.
 
 # Docker Compose Application
 
-Today I created a multi-container application.
+I created a multi-container application.
 
 Example:
 WordPress + MySQL using Docker Compose
