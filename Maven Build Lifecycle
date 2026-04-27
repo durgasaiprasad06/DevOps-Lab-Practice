@@ -13,4 +13,20 @@ Project structure:
 Learning:
 I understood Maven project structure and how projects are created.
 
+# Maven Build Lifecycle
 
+I learned about Maven build lifecycle.
+
+Main phases:
+- validate
+- compile
+- test
+- package
+- install
+
+Command:
+
+mvn clean install
+
+Learning:
+I understood how Maven builds and manages Java projects.
