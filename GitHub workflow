@@ -1,0 +1,19 @@
+# GitHub Actions Workflow
+
+I created my first workflow file.
+
+Example:
+
+name: CI Pipeline
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+Learning:
+I created a basic CI workflow.
