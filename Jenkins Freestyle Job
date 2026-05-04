@@ -1,0 +1,19 @@
+# Jenkins Installation
+
+I installed Jenkins.
+
+What is Jenkins:
+Jenkins is a CI/CD tool used for automation.
+
+# Jenkins Freestyle Job
+
+I created a Freestyle job in Jenkins.
+
+Steps:
+- Created new job
+- Added build steps
+- Ran job successfully
+
+Learning:
+I understood how Jenkins executes jobs.
+I explored Jenkins dashboard and basic setup.
